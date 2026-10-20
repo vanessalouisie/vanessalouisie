@@ -1,16 +1,17 @@
-## Hi there 👋
+# Vanessa Louisie
+Legal Operations | Brazilian attorney | AI-first legal workflows
 
-<!--
-**vanessalouisie/vanessalouisie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build legal functions from scratch: intake, tracking, outside counsel management, compliance systems and reporting, usually with a lean team and a lot of AI.
 
-Here are some ideas to get you started:
+## What I work on
+- Legal operating models: intake, prioritization, SLAs, KPIs and reporting
+- Legal tech rollouts: Lysis and Projuris at three companies
+- Outside counsel and legal spend management
+- Compliance and privacy programs (LGPD, Brazil's GDPR equivalent)
+- Daily AI use for contract review, drafting, research and process design, always with human review
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+Building the legal function of a food manufacturer in Brazil as its only in-house lawyer.
+
+Based in Brazil (UTC-3), open to remote work in Americas time zones.
+LinkedIn: https://www.linkedin.com/in/vanessalouisie
